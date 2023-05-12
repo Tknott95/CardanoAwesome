@@ -35,3 +35,4 @@ Infra/Other
 * https://github.com/input-output-hk/mithril
 * https://github.com/input-output-hk/hydra
 * https://github.com/input-output-hk/cardano-wallet
+* https://github.com/input-output-hk/cardano-node

@@ -32,3 +32,4 @@ DB-Sync Related
 
 Infra/Other
 * https://github.com/input-output-hk/mithril
+* https://github.com/input-output-hk/hydra

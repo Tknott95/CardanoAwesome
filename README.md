@@ -27,6 +27,7 @@ SC Code (Other)
 SC Infra/Util Code
 * https://github.com/geniusyield/atlas
 * https://github.com/Plutonomicon/plutarch-core
+  * https://github.com/Plutonomicon/plutarch-plutus/tree/master/plutarch-docs 
 
 DB-Sync Related
 * https://github.com/garyblankenship/cardano-db-sync-queries

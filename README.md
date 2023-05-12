@@ -12,10 +12,9 @@ Frontend Wallet Connectors
 SC Code (Haskell)
 * https://github.com/fallen-icarus/cardano-loans
 * https://github.com/aadafinance/aada-finance/tree/development-testnet
-* https://github.com/IndigoProtocol/indigo-smart-contracts
- * v2 
+* https://github.com/IndigoProtocol/indigo-smart-contracts 
 * https://github.com/MELD-labs/cardano-defi-public
- * v2 w/ plutarch 
+  * v2 w/ plutarch 
 * https://github.com/logicalmechanism/group-payout/blob/main/group-payout-contract/src/GroupPayoutContract.hs
 * https://gitlab.com/guchi_io/public/
 * https://github.com/input-output-hk/plutus-pioneer-program

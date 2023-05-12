@@ -1,4 +1,4 @@
-# Cardano_Awesome
+# Cardano Awesome (dev edition)
 
 `for a later markdown implementation to start some "cardano-awesome"-esque docs for devs. (help update this if can, we can add descriptions too.)`
 

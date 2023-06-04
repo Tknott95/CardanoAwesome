@@ -37,3 +37,7 @@ Infra/Other
 * https://github.com/input-output-hk/hydra
 * https://github.com/input-output-hk/cardano-wallet
 * https://github.com/input-output-hk/cardano-node
+
+
+Unorganized ATM
+ * https://github.com/minswap (all things minswap)

@@ -45,5 +45,5 @@ Unorganized ATM
 
 [REDACTED] FUN
  * https://github.com/NickJorens/lp-sniper   (lq sniper bot)
- * https://gist.github.com/Tknott95/5f9b78a94b0d5449f3626ae1a3e17eb6 (mnemonic "dictionary" permutative brute forcer)
+ * https://gist.github.com/Tknott95/5f9b78a94b0d5449f3626ae1a3e17eb6 (mnemonic "precision-dictionary" permutative brute forcer)
  

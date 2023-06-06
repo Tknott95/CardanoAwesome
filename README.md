@@ -32,11 +32,15 @@ SC Infra/Util Code
 DB-Sync Related
 * https://github.com/garyblankenship/cardano-db-sync-queries
 
+
 Infra/Other
 * https://github.com/input-output-hk/mithril
 * https://github.com/input-output-hk/hydra
 * https://github.com/input-output-hk/cardano-wallet
 * https://github.com/input-output-hk/cardano-node
+
+Minswap Libraries
+* https://github.com/minswap/blockfrost-adapter
 
 
 Unorganized ATM

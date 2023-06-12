@@ -8,6 +8,8 @@ Frontend Wallet Connectors
 * https://github.com/dynamicstrategies/cardano-wallet-connector
 * https://github.com/spacebudz/lucid
 
+Typescript/JS
+* https://github.com/IndigoProtocol/dexter
 
 SC Code (Haskell)
 * https://github.com/fallen-icarus/cardano-loans

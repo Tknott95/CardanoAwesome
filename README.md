@@ -9,6 +9,7 @@ Frontend Wallet Connectors
 * https://github.com/spacebudz/lucid
 
 Typescript/JS
+* https://github.com/thaddeusdiamond/cardano-nft-js-toolkit
 * https://github.com/IndigoProtocol/dexter
 
 SC Code (Haskell)

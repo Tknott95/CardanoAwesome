@@ -45,6 +45,10 @@ Infra/Other
 Minswap Libraries
 * https://github.com/minswap/blockfrost-adapter
 
+Game Engine SUpport
+* https://github.com/Tknott95/cardano-unity (fork of fivebinaries that allows builds to work.)
+  
+
 
 Unorganized ATM
  * https://github.com/minswap (all things minswap)

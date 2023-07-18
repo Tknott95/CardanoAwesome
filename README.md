@@ -20,11 +20,11 @@ SC Code (Haskell)
 * https://github.com/logicalmechanism/group-payout/blob/main/group-payout-contract/src/GroupPayoutContract.hs
 * https://gitlab.com/guchi_io/public/
 * https://github.com/input-output-hk/plutus-pioneer-program
-* https://github.com/aadafinance/aada-finance (old version of lenfi below)
+* https://github.com/aadafinance/aada-finance (old haskell version of lenfi below)
+
+SC Code (Aiken)
 * https://github.com/lenfiLabs/lenfi-smart-contracts
 
-SC Code (Rust)
-*
 
 SC Code (Other)
 *

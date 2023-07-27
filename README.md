@@ -24,6 +24,7 @@ SC Code (Haskell)
 
 SC Code (Aiken)
 * https://github.com/lenfiLabs/lenfi-smart-contracts
+* https://github.com/logicalmechanism/distributed_representation
 
 
 SC Code (Other)

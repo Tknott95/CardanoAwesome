@@ -2,6 +2,30 @@
 
 `for a later markdown implementation to start some "cardano-awesome"-esque docs for devs. (help update this if can, we can add descriptions too.)`
 
+
+
+
+### 2025 (will refactor as I go - busy atm)
+Frontend wallet connectors
+ * https://github.com/Cardano-Forge/weld
+ * https://github.com/Anastasia-Labs/lucid-evolution  (does both)
+
+Off-Chain Transaction SDKs (TS/JS)
+ * https://github.com/spacebudz/lucid
+ * https://github.com/Anastasia-Labs/lucid-evolution
+ * https://github.com/MeshJS/mesh
+
+
+
+SC Code
+ * https://github.com/MeshJS/mesh
+  * LOC: packages/mesh-contract/**
+
+
+
+
+ALL BEFORE PLUTUS V3 IN REGARDS TO SC STUFF - WILL UPDATE PROPER SOON WITH WHAT EVERYTHING DOES
+### OLDER AWESOME ARCHIVES (will update with new stuff soon)
 Frontend Wallet Connectors
 * https://github.com/cardano-foundation/cardano-connect-with-wallet 
 * https://github.com/tango-crypto/cardano-wallet-js

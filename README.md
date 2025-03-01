@@ -7,20 +7,20 @@
 
 ### 2025 (will refactor as I go - busy atm)
 Frontend wallet connectors
- * https://github.com/Cardano-Forge/weld
- * https://github.com/Anastasia-Labs/lucid-evolution  (does both)
+* https://github.com/Cardano-Forge/weld
+* https://github.com/Anastasia-Labs/lucid-evolution  (does both)
 
 Off-Chain Transaction SDKs (TS/JS)
- * https://github.com/spacebudz/lucid
- * https://github.com/Anastasia-Labs/lucid-evolution
- * https://github.com/MeshJS/mesh
+* https://github.com/spacebudz/lucid
+* https://github.com/Anastasia-Labs/lucid-evolution
+* https://github.com/MeshJS/mesh
 
 
 
 SC Code
- * https://github.com/MeshJS/mesh
-  * LOC: packages/mesh-contract/**
- * https://github.com/maestro-org/smart-contracts
+* https://github.com/MeshJS/mesh
+* LOC: packages/mesh-contract/**
+* https://github.com/maestro-org/smart-contracts
 
 
 

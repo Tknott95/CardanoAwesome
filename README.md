@@ -18,8 +18,7 @@ Off-Chain Transaction SDKs (TS/JS)
 
 
 SC Code
-* https://github.com/MeshJS/mesh
-* LOC: packages/mesh-contract/**
+* https://github.com/MeshJS/mesh (packages/mesh-contract/**)
 * https://github.com/maestro-org/smart-contracts
 
 

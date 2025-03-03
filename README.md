@@ -30,7 +30,7 @@ Syncs
 
 
 Plug and Play Solutions (Not Code)
-  * 
+  * https://demeter.run/ (cloud based nodes - syncs - etc) 
 
 
 ALL BEFORE PLUTUS V3 IN REGARDS TO SC STUFF - WILL UPDATE PROPER SOON WITH WHAT EVERYTHING DOES

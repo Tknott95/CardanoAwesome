@@ -22,6 +22,10 @@ SC Code
 * https://github.com/maestro-org/smart-contracts
 * https://github.com/IndigoProtocol/indigo-upgrade-details-v2/
 
+Syncs
+ * https://github.com/txpipe/oura
+ * https://github.com/CardanoSolutions/ogmios
+ * https://github.com/IntersectMBO/cardano-db-sync
 
 
 ALL BEFORE PLUTUS V3 IN REGARDS TO SC STUFF - WILL UPDATE PROPER SOON WITH WHAT EVERYTHING DOES

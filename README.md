@@ -32,8 +32,9 @@ Syncs
 Plug and Play Solutions (Not Code)
   * https://demeter.run/ (cloud based nodes - syncs - etc) 
 
+******************************************************************
 
-ALL BEFORE PLUTUS V3 IN REGARDS TO SC STUFF - WILL UPDATE PROPER SOON WITH WHAT EVERYTHING DOES
+ALL BELOW BEFORE PLUTUS V3 IN REGARDS TO SC STUFF - WILL UPDATE PROPER SOON WITH WHAT EVERYTHING DOES
 ### OLDER AWESOME ARCHIVES (will update with new stuff soon)
 Frontend Wallet Connectors
 * https://github.com/cardano-foundation/cardano-connect-with-wallet 
